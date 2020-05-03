@@ -1,0 +1,10 @@
+-Auflistung der Mitglieder
+-Wahlkampfpunkte unter 'home' (index) bei "Wir stehen für ..."
+-Auflistung der Wahlkreiskandidaten
+-Profil der Wahlkreiskandidaten
+
+Mir fehlt konkreter Input für
+-mehr bei 'Mitglieder'
+-aktuelle Anträge
+-aktuell erreichte oder anvisierte "Themen/Projekte der Ausschüsse
+-Profil der Wahlkreiskandidaten (am liebsten wie bei Manfred Mensing)
